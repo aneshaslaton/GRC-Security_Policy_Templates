@@ -1,0 +1,70 @@
+## Access Control Policy Template
+
+**I. Introduction**
+
+* **Policy Name:**  Information Security Access Control Policy
+* **Policy Owner:**  [Name of IT Security Manager or Department]
+* **Effective Date:**  [Date Policy is Implemented]
+* **Revision History:**  Track revisions and dates of updates.
+
+**II. Purpose**
+
+* This policy outlines the organization's approach to access control for its information systems and resources.
+* It defines the principles and procedures for granting, managing, and revoking access to ensure data confidentiality, integrity, and availability.
+
+**III. Scope**
+
+* This policy applies to all employees, contractors, and any other authorized users who access the organization's information systems and resources.
+* This includes physical access controls, network access controls, and application access controls.
+
+**IV. Access Control Principles**
+
+**Least Privilege**
+Users are granted the minimum level of access necessary to perform their job duties.
+
+**Separation of Duties**
+Critical tasks are divided among multiple users to reduce the risk of unauthorized access or modification of data. 
+
+**Accountability**
+All users are accountable for the security of their credentials and any activity performed using their accounts.
+
+**V. Access Request and Approval Process**
+
+* Users requesting access to a system or resource must submit a formal request through a designated process (e.g., online form, access control committee).
+* The request should include justification for access and the specific level of access needed.
+* Access requests are reviewed and approved by authorized personnel based on the principle of least privilege.
+
+**VI. Access Levels and Permissions**
+
+* Define different access levels (e.g., administrator, user, read-only) with associated permissions for each level.
+* Examples of permissions:  create, read, update, delete,  execute.
+
+**VII. Password Management**
+
+* Define password complexity requirements (e.g., minimum length, character types).
+* Enforce regular password changes (e.g., every 90 days).
+* Prohibit password sharing and reuse.
+
+**VIII. User Provisioning and Deprovisioning**
+
+* Users are granted access only after proper training and familiarization with the security policy.
+* User access is deactivated promptly upon termination of employment, transfer, or change in job duties.
+
+**IX. Monitoring and Auditing**
+
+* System access logs are monitored for suspicious activity.
+* Regular reviews of user access privileges are conducted to ensure they remain aligned with user roles and needs.
+
+**X. Enforcement**
+
+* Violations of this policy will result in disciplinary action, up to and including termination of employment.
+
+**XI. Review and Updates**
+
+* This policy will be reviewed and updated periodically to reflect changes in technology, business needs, and regulatory requirements.
+
+**XII. Resources**
+
+* Include references to related security policies (e.g., Password Policy, Acceptable Use Policy).
+
+**Note:** This template is a starting point and is not intended to be comprehensive. This template should be customized based on the specific requirements and security posture of your organization.
