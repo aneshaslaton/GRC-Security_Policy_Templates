@@ -3,14 +3,18 @@
 
 This repository provides a comprehensive collection of customizable security policy templates designed to simplify and strengthen your organization's Governance, Risk, and Compliance (GRC) strategy. 
 
+
 **Who Should Use This Repository?**
+
 * GRC professionals seeking to streamline policy development
 * Security professionals implementing a robust security program
 * Information security officers building a comprehensive security framework
 * IT managers ensuring compliance with security regulations
 * Anyone looking to establish consistent and effective security policies
 
-**Extensive Policy Collection:**
+
+**Extensive Policy Collection**
+
 The repository offers a wide range of customizable templates covering various security areas, such as:
     * Information Security Policy
     * Access Control Policy
@@ -20,13 +24,19 @@ The repository offers a wide range of customizable templates covering various se
     * Acceptable Use Policy
     * And many more!
 
-**Customization Flexibility:**
+
+**Customization Flexibility**
+
 Each template is designed to be easily customized. You can readily adapt the content to reflect your organization's specific security posture, risk profile, and compliance requirements.
 
-**Early Contribution:**
+
+**Early Contribution**
+
 I encourage contributions from the GRC community! Feel free to submit new policy templates or propose improvements to existing ones. 
 
-**Getting Started:**
+
+**Getting Started**
+
 1. Clone or download the repository.
 2. Browse the template directory to find the policy relevant to your needs.
 3. Review and customize the template to reflect your organization's specific requirements.
