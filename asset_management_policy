@@ -1,0 +1,78 @@
+## Asset Management Policy Template
+
+**I. Introduction**
+
+**Policy Name:**  Information Technology Asset Management Policy
+**Policy Owner:**  [Name of IT Department or Asset Manager]
+**Effective Date:**  [Date Policy is Implemented]
+**Revision History:**  Track revisions and dates of updates.
+
+**II. Purpose**
+
+* This policy outlines your organization's approach to managing its information technology (IT) assets throughout its lifecycle, from acquisition to disposal.
+* It aims to ensure accurate asset records, optimize asset utilization, safeguard assets from loss or theft, and comply with relevant regulations.
+
+**III. Scope**
+
+* This policy applies to all IT assets owned, leased, or used by the organization, including:
+    * Hardware (e.g., desktops, laptops, servers, network devices)
+    * Software (e.g., operating systems, applications, licensed software)
+    * Mobile devices (e.g., smartphones, tablets)
+    * Peripheral devices (e.g., printers, scanners)
+    * Data storage devices (e.g., hard drives, external storage)
+
+**IV. Asset Inventory**
+
+* A comprehensive and accurate inventory of all IT assets will be maintained.
+* Each asset will be assigned a unique identifier and tracked throughout its lifecycle.
+* Asset information includes type, model, serial number, purchase date, location, assigned user, and warranty information.
+
+**V. Asset Acquisition**
+
+* All IT asset acquisitions must be approved through a designated process (e.g., purchase order system).
+* Justification for acquisition and alignment with business needs is required.
+* Purchased assets are properly documented and added to the asset inventory upon receipt.
+
+**VI. Asset Deployment and Management**
+
+* IT assets are deployed to authorized users based on their job function and security clearance.
+* Software licenses are managed effectively to ensure compliance with licensing agreements. 
+* Asset movement within the organization is documented and tracked through the asset inventory system.
+
+**VII. Asset Maintenance and Upgrades**
+
+* A preventative maintenance schedule will be established to ensure optimal performance and lifespan of IT assets.
+* Software updates and security patches are applied promptly to address vulnerabilities.
+* Hardware and software upgrades are planned and budgeted for based on asset lifecycle and changing business needs.
+
+**VIII. Asset Disposal**
+
+* When an IT asset reaches the end of its useful life or is no longer needed, it is disposed of securely.
+* Data sanitization procedures will be followed to remove sensitive information from storage devices before disposal.
+* Environmentally responsible disposal methods are employed for electronic waste.
+
+**IX. Roles and Responsibilities**
+
+* This policy outlines roles and responsibilities for various stakeholders involved in asset management, including:
+    * IT department: Responsible for overall asset management strategy, inventory maintenance, and security.
+    * Department managers:  Accountable for asset usage within their departments and reporting any asset-related issues.
+    * Users: Responsible for the safekeeping and proper use of assigned assets.
+
+**X. Reporting and Auditing**
+
+* Regular reports on asset inventory and utilization will be generated for management review.
+* Periodic audits will be conducted to ensure compliance with this policy and identify any areas for improvement.
+
+**XI. Enforcement**
+
+* Violations of this policy may result in disciplinary action, including suspension or termination of asset access privileges.
+
+**XII. Review and Updates**
+
+* This policy will be reviewed and updated periodically to reflect changes in technology, business needs, and regulatory requirements.
+
+**XIII. Resources**
+
+* Include references to relevant standards and regulations (e.g., NIST SP 800-53).
+
+**Note:** This template serves as a starting point and is not intended to be comprehensive. This template should be customized based on your organization's specific size, IT infrastructure, and security requirements. 
