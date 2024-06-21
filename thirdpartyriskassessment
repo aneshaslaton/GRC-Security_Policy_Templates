@@ -1,0 +1,76 @@
+## Third-Party Security Risk Assessment Template
+
+This template is designed to assist in evaluating the security posture of a third-party vendor or supplier for your organization.
+
+**I. Introduction**
+
+**Assessment Purpose**
+[Briefly outline the purpose of the assessment (e.g., evaluate security practices of a potential cloud storage provider).]
+**Assessment Scope**
+[Define the scope of the assessment (e.g., focus on data security controls, including all third-party sub-processors).]
+**Assessment Date**
+[Record the date the assessment is conducted.]
+
+**II. Third-Party Information**
+
+**Vendor Name**
+Name of the third-party vendor being assessed.
+**Industry**
+Industry sector the vendor operates in.
+**Services Provided**
+Specific services or products the vendor provides to your organization.
+**Data Sharing**
+Identify what type of data is shared with the vendor (e.g., customer data, financial data, intellectual property).
+
+**III. Risk Identification**
+
+**Threat Analysis**
+Identify potential threats associated with the third-party relationship (e.g., data breaches, malware attacks, service disruptions). 
+**Vulnerability Assessment**
+Evaluate potential vulnerabilities within the vendor's security controls (e.g., weak access controls, and insecure infrastructure).
+**Impact Assessment**
+Assess the potential impact of a security incident involving the third party (e.g., financial losses, reputational damage, regulatory non-compliance).
+
+**IV. Security Controls Assessment**
+
+**Security Policies and Procedures** 
+    * Does the vendor have documented information security policies (e.g., data security policy, access control policy)? 
+    * Are the policies relevant to the services provided and aligned with industry standards?
+**Access Controls** 
+    * How does the vendor control access to systems and data? 
+    * Are strong access controls (e.g., multi-factor authentication, least privilege) implemented?
+**Data Security** 
+    * How does the vendor secure data at rest and in transit (e.g., encryption)? 
+    * Are there procedures for data deletion and disposal?
+**Incident Response** 
+    * Does the vendor have a documented incident response plan? 
+    * How will the vendor communicate security incidents to your organization?
+**Patch Management** 
+    * Does the vendor have a process for patching vulnerabilities in their systems and software?
+**Risk Management**   
+    * Does the vendor have a documented risk management framework? 
+    * How does the vendor identify, assess, and mitigate security risks?
+
+**V. Assessment Methodology**
+
+**Information Gathering Methods**
+Describe the methods used to gather information about the vendor's security posture (e.g., security questionnaires, vendor security reports, on-site visits).
+
+**VI. Risk Rating**
+
+* Based on the identified threats, vulnerabilities, and security controls, assign a risk rating to the third-party relationship (e.g., High, Medium, Low).
+
+**VII. Remediation Plan**
+
+* If vulnerabilities or deficiencies are identified, develop a remediation plan outlining corrective actions and timelines for the vendor.
+
+**VIII. Conclusion**
+
+* Summarize the key findings of the assessment and the overall security risk associated with the third party.
+* Provide recommendations for ongoing monitoring and risk management of the third-party relationship.
+
+
+**IX. Appendix**
+
+* Include any relevant supporting documents such as the security questionnaire provided to the vendor or detailed vulnerability reports.
+
