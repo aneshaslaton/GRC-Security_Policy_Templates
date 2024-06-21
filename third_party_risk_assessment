@@ -56,7 +56,7 @@ Assess the potential impact of a security incident involving the third party (e.
 **Information Gathering Methods**
 Describe the methods used to gather information about the vendor's security posture (e.g., security questionnaires, vendor security reports, on-site visits).
 
-**VI. Risk Rating**
+**VI. Risk Rating*** 
 
 * Based on the identified threats, vulnerabilities, and security controls, assign a risk rating to the third-party relationship (e.g., High, Medium, Low).
 
